@@ -5,7 +5,7 @@
 
 ### Sobre mim
 ## ------------------------------------------------------------------------------------------
-Sou formado em engenharia de controle e automação, com conhecimento em programação, automação, redes e robótica e atualmente estudante de desenvolvimento WEB Full-Stack.
+Graduado em Engenharia de Controle e Automação e estudante de Desenvolvimento WEB Full-Stack
 #
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Thiagolemos1995)](https://github.com/Thiagolemos1995)

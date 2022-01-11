@@ -5,7 +5,10 @@
 
 ### Sobre mim
 ## ------------------------------------------------------------------------------------------
-Graduado em Engenharia de Controle e Automação e estudante de Desenvolvimento WEB Full-Stack
+Graduado em Engenharia de Controle e automação, atuei 3 anos na área de desenvolvimento de softwares industriais e hoje trabalho e sou apaixonado por desenvolvimento Fullstack.
+Sou apaixonado por tecnologia, busco sempre me atualizar referente as novas tecnologias de mercado e sempre me aperfeiçoar.
+
+Recentemente fiz uma transição de carreira, onde eu era desenvolvedor de softwares industriais. Porém conforme fui conhecendo mais sobre tecnologia, acabei descobrindo que tinha muito mais interesse e me sentia muito mais feliz trabalhando como desenvolvedor fullstack, utilizando tecnologias como javascript, NestJs, NextJs, Java, PHP e diversas outras.
 #
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Thiagolemos1995)](https://github.com/Thiagolemos1995)

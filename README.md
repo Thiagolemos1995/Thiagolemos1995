@@ -13,23 +13,17 @@ Como desenvolvedor, trabalhei por 2 anos como Front-end, desenvolvendo plataform
 o gerenciamento de suas carteiras e transações.
 Porém durante esse tempo, não deixei de acompanhar e aprender novas tecnologias, tanto de Back-end quanto de Mobile.
 
-Tecnologias as quais me interesso e/ou possuo experiência.
+Tecnologias nas quais possuo experiência.
  ### Front-end:
    - ReactJS
    - NextJS
-   - VueJS
-   - Angular
  ### Back-end:
    - NodeJS
    - NestJS
-   - PHP
-   - Laravel
    - Java
    - SpringBoot
  ### Mobile:
    - ReactNative
-   - SwiftIOS
-   - Flutter
  ### Testing Libs:
    - Jest
    - Cypress

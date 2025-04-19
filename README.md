@@ -1,44 +1,38 @@
-# Thiago Lemos Silva
-📍 Boa Esperança -MG
+## 👋 Olá, eu sou o Thiago Lemos Silva
 
+Sou **Desenvolvedor Full Stack** com mais de **4 anos de experiência**, apaixonado por criar soluções web modernas, performáticas e escaláveis. Ao longo da minha jornada, tenho trabalhado com uma variedade de tecnologias e stacks, tanto no front-end quanto no back-end.
 
+### 🚀 Tecnologias que utilizo no dia a dia
 
-### Sobre mim
-## ------------------------------------------------------------------------------------------
+**Front-end**  
+- React.js • Next.js • TypeScript • TailwindCSS • ShadCN • Material UI • React Native  
+- Testes: Jest • Cypress
 
-Atualmente formado em Engenharia de Controle e Automação porém especializado na área de Desenvolvimento de Software, sempre fui apaixonado por tecnologia inovação. 
-Que devido a estas características me levou a concluir meu curso de graduação no Instituto Nacional de Telecomunicações - INATEL, onde é referência por essas caracterísicas.
+**Back-end**  
+- Node.js • NestJS • AdonisJS • Java (Spring Boot)  
+- Banco de Dados: PostgreSQL • MySQL • TypeORM • GraphQL • Hasura
 
-Como desenvolvedor, trabalhei por 2 anos como Front-end, desenvolvendo plataformas para gestão financeira e de usuários, facilitando a captação de novos clientes, e facilitando assim para eles
-o gerenciamento de suas carteiras e transações.
-Porém durante esse tempo, não deixei de acompanhar e aprender novas tecnologias, tanto de Back-end quanto de Mobile.
+**DevOps & Cloud**  
+- AWS (Lambda, Cognito, S3, Step Functions, EC2, ECR)  
+- Google Cloud Platform (GCP)  
+- Docker • CI/CD pipelines
 
-Tecnologias nas quais possuo experiência.
- ### Front-end:
-   - ReactJS
-   - NextJS
- ### Back-end:
-   - NodeJS
-   - NestJS
-   - Java
-   - SpringBoot
- ### Mobile:
-   - ReactNative
- ### Testing Libs:
-   - Jest
-   - Cypress
- ### Outros:
-   - Docker
-   - Kubernetes
-   - CI/CD
-   - ORMs (TypeORM, mikroORM)
-   - Banco de Dados (MySQL, MongoDB, PostgreSQL)
-   - Mensageria/Fila (RabbitMQ)
+**Outras Skills**  
+- Arquiteturas escaláveis • Microserviços • BFF (Backend for Frontend)  
+- UX/UI Design com Figma  
+- Metodologias ágeis (Scrum) • Prompt Engineering
 
-#
+### 💡 O que me motiva
+Sou movido por desafios e pelo impacto positivo que o código pode causar. Gosto de colaborar com equipes, compartilhar conhecimento e aprender com outros profissionais.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Thiagolemos1995)](https://github.com/Thiagolemos1995)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-lemos-silva-835983105/)](https://www.linkedin.com/in/thiago-lemos-silva-835983105/)
+---
+
+📫 Vamos nos conectar?  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagolemossilva)  
+[![Email](https://img.shields.io/badge/-Email-%23333?style=flat&logo=gmail&logoColor=white)](mailto:thiagolemos1995@hotmail.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel&logoColor=white)](https://github.com/Thiagolemos1995)
+
+---
 
 ## 
 

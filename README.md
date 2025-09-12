@@ -35,7 +35,5 @@ Sou movido por desafios e pelo impacto positivo que o código pode causar. Gosto
 ---
 
 ## 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Thiagolemos1995&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagolemos1995&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 

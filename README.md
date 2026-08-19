@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Thiago Lemos Silva
 
-Sou **Desenvolvedor Full Stack** com mais de **4 anos de experiência**, apaixonado por criar soluções web modernas, performáticas e escaláveis. Ao longo da minha jornada, tenho trabalhado com uma variedade de tecnologias e stacks, tanto no front-end quanto no back-end.
+Sou **Desenvolvedor Full Stack** com mais de **5 anos de experiência**, apaixonado por criar soluções web modernas, performáticas e escaláveis. Ao longo da minha jornada, tenho trabalhado com uma variedade de tecnologias e stacks, tanto no front-end quanto no back-end.
 
 ### 🚀 Tecnologias que utilizo no dia a dia
 

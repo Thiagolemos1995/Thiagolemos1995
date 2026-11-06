@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Thiago Lemos Silva
 
-Sou **Desenvolvedor Full Stack** com mais de **5 anos de experiência**, apaixonado por criar soluções web modernas, performáticas e escaláveis. Ao longo da minha jornada, tenho trabalhado com uma variedade de tecnologias e stacks, tanto no front-end quanto no back-end.
+Sou **Desenvolvedor Full Stack** com mais de **5 anos de experiência**, especializado em criar soluções web modernas, escaláveis e na **integração de Inteligência Artificial**. Ao longo da minha jornada, tenho trabalhado com uma variedade de tecnologias e stacks para entregar sistemas eficientes e automatizados, do front-end ao back-end.
 
 ### 🚀 Tecnologias que utilizo no dia a dia
 
@@ -12,18 +12,22 @@ Sou **Desenvolvedor Full Stack** com mais de **5 anos de experiência**, apaixon
 - Node.js • NestJS • AdonisJS • Java (Spring Boot)  
 - Banco de Dados: PostgreSQL • MySQL • TypeORM • GraphQL • Hasura
 
+**Inteligência Artificial & Dados** 🤖  
+- Model Context Protocol (MCP) • Prompt Engineering • Spec Driven Development (SDD)  
+- Integração de IA (OpenAI API, Whisper, ChatGPT) • Análise de Dados Inteligente
+
 **DevOps & Cloud**  
 - AWS (Lambda, Cognito, S3, Step Functions, EC2, ECR)  
 - Google Cloud Platform (GCP)  
 - Docker • CI/CD pipelines
 
-**Outras Skills**  
+**Arquitetura & Outras Skills**  
 - Arquiteturas escaláveis • Microserviços • BFF (Backend for Frontend)  
 - UX/UI Design com Figma  
-- Metodologias ágeis (Scrum) • Prompt Engineering
+- Metodologias ágeis (Scrum)
 
 ### 💡 O que me motiva
-Sou movido por desafios e pelo impacto positivo que o código pode causar. Gosto de colaborar com equipes, compartilhar conhecimento e aprender com outros profissionais.
+Sou movido por desafios, automação de alto nível e pelo impacto positivo que o código pode causar. Gosto de colaborar com equipes, compartilhar conhecimento e aprender continuamente com outros profissionais.
 
 ---
 
@@ -34,6 +38,4 @@ Sou movido por desafios e pelo impacto positivo que o código pode causar. Gosto
 
 ---
 
-## 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagolemos1995&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagolemos1995&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
